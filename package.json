@@ -2,7 +2,7 @@
   "name": "js_17-18",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "sqript.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

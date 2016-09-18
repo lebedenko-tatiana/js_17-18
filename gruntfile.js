@@ -34,7 +34,7 @@
   grunt.loadNpmTasks('grunt-contrib-cssmin');
 
   grunt.registerTask('default', ['concat', 'uglify', 'cssmin']);
-  grunt.registerTask('minjs', [''concat', uglify']);
+  grunt.registerTask('minjs', ['concat', 'uglify']);
 
 
 };
